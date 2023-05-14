@@ -7,4 +7,4 @@ Some Features are below -
   
 If app already exit than it show a alert message.
 
-All functionality is case senstive.
+All functionality is case sensitive.
